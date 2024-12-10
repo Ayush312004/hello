@@ -1,9 +1,3 @@
-'''Practical No 4 
-Write a Python program to compute following computation on matrix: 
-a) Addition of two matrices   B) Subtraction of two matrices 
-c) Multiplication of two matrices d) Transpose of a matrix'''
-
-
 print("Matrix A")
 row1 = int(input("Enter number of rows for Matrix A: "))
 col1 = int(input("Enter number of columns for Matrix A: "))
