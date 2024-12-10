@@ -38,36 +38,4 @@ while True:
     else: 
         break
 
-'''OUTPUT:
-Enter which operation you want to perform:
-1. Deposit
-2. Withdraw
-1
-Amount to be deposited: 300
-Amount deposited: 300
-Net Balance: 300
-Enter which operation you want to perform:
-1. Deposit
-2. Withdraw
-1
-Amount to be deposited: 300
-Amount deposited: 300
-Net Balance: 600
-Enter which operation you want to perform:
-1. Deposit
-2. Withdraw
-2
-Amount to be withdrawn: 200
-Amount withdrawn: 200
-Net Balance: 400
-Enter which operation you want to perform:
-1. Deposit
-2. Withdraw
-1
-Amount to be deposited: 100
-Amount deposited: 100
-Net Balance: 500
-Enter which operation you want to perform:
-1. Deposit
-2. Withdraw'''
 
