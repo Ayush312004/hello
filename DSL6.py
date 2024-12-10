@@ -1,10 +1,3 @@
-'''Practical no 6 
-Write a Python program to store first year percentage of students in array. Write function for 
-sorting array of floating point numbers in ascending order using 
-a) Selection Sort 
-b) Bubble sort and display top five scores. '''
-
-
 n=int(input("Enter the no of students in class:"))
 print("Enter percentage of Students:")
 a=[]
