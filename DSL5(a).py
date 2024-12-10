@@ -24,8 +24,7 @@ def sentinel(l,n):
 	return -1
 
 while(True):
-	print("\n")
-	print("Linear/sentinel search")
+	print("\nLinear/sentinel search")
 	print("1.Linear search\n2.sentinel search")
 	choice=int(input("Enter choice:"))
 	if choice==1:
